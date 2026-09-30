@@ -1,4 +1,4 @@
-Revolutionary Warfare Command Verification Bot
+# Revolutionary Warfare Command Verification Bot
 
 This is the verification bot for the **Revolutionary Warfare Command** aka RWC Roblox group and its Discord server.
 
