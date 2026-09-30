@@ -12,7 +12,7 @@ The Revolutionary Warfare Command verification bot ("RWC Automation") is run by 
 
 ## XP and ranks
 
-- Community administrators, and the staff members they choose, decide how XP is awarded.
+- The community administrators and the staff chosen by them decide how XP is awarded, and may change, correct or reset XP and ranks at any time.
 - XP and ranks may be changed, corrected or reset by the administrators at any time.
 - Roblox group ranks are given automatically based on XP, but staff ranks are managed separately.
 
