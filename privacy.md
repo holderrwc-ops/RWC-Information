@@ -36,6 +36,10 @@ The login tokens Roblox gives the bot are used **once** to read your user ID and
 
 Your data is kept while you take part in our community. Backups of the data are kept by the server administrators for safety.
 
+When you verify, your Discord account and Roblox username are posted in a private staff channel, so the community's staff can see which Discord account belongs to which Roblox account.
+
+Your Roblox username, XP and rank can be seen by other members of the Discord server through the leaderboard, the /profile command and promotion announcements.
+
 To have your data removed, or to unlink your account, contact the server admadministrators in our Discord server.
 
 ## Changes
